@@ -14,6 +14,7 @@ apply plugin: 'org.ajoberstar.github-pages'
 
 githubPages {
   repoUri = 'https://github.com/stigmelling/blog.git'
+//  repoUri = 'git@github.com/stigmelling/blog.git'
   pages {
      from(file('build/jbake')) {
      	into '.'
