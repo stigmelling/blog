@@ -6,8 +6,8 @@
     <atom:link href="http://stigmelling.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 13 Dec 2015 20:15:17 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 20:15:17 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 21:43:46 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 21:43:46 +0100</lastBuildDate>
 
     <item>
       <title>Min blog</title>
@@ -16,8 +16,10 @@
       <guid isPermaLink="false">blog/2015/min-blog.html</guid>
       	<description>
 	&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Juhu&amp;#8230;&amp;#8203; nå har jeg min egen Blog. Jeg antar at resten av verden tar dette med fatning og er rolig avventende til om det kommer til å forandre noe eller noen :-)
-Dersom jeg klarer å bruke bloggen som en arena for å strukturere egne tanker og erfaringer knyttet til det å lage gode løsninger - så er jeg mer enn fornøyd.&lt;/p&gt;
+&lt;p&gt;Juhu&amp;#8230;&amp;#8203; nå har jeg min egen Blog. Jeg antar at resten av verden bevarer fatningen og er rolig avventende til om dette kommer til å forandre noe :-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Dersom jeg klarer å bruke bloggen som en arena for å strukturere egne tanker og erfaringer knyttet til det å lage gode løsninger - så er jeg mer enn fornøyd.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Jeg jobber som konsulent i Kodemaker Systemutvikling. Du kan lese om oss på &lt;a href=&quot;http://kodemaker.no&quot; class=&quot;bare&quot;&gt;http://kodemaker.no&lt;/a&gt; og du kan lese om meg på &lt;a href=&quot;http://kodemaker.no/stig&quot; class=&quot;bare&quot;&gt;http://kodemaker.no/stig&lt;/a&gt;&lt;/p&gt;
