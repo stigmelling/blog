@@ -8,7 +8,8 @@ status=published
 Stig Melling
 2015-12-11
 
-Juhu... nå har jeg min egen Blog. Jeg antar at resten av verden tar dette med fatning og er rolig avventende til om det kommer til å forandre noe eller noen :-)
+Juhu... nå har jeg min egen Blog. Jeg antar at resten av verden bevarer fatningen og er rolig avventende til om dette kommer til å forandre noe :-)
+
 Dersom jeg klarer å bruke bloggen som en arena for å strukturere egne tanker og erfaringer knyttet til det å lage gode løsninger - så er jeg mer enn fornøyd. 
 
 Jeg jobber som konsulent i Kodemaker Systemutvikling. Du kan lese om oss på http://kodemaker.no og du kan lese om meg på http://kodemaker.no/stig
