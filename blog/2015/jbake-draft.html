@@ -60,12 +60,52 @@
 
 	<p><div class="paragraph">
 <p>Som inspirasjon
+* <a href="http://jbake.org/" class="bare">http://jbake.org/</a>
+* <a href="https://pages.github.com/" class="bare">https://pages.github.com/</a>
 * <a href="http://melix.github.io/blog/2014/02/hosting-jbake-github.html" class="bare">http://melix.github.io/blog/2014/02/hosting-jbake-github.html</a>
 * <a href="https://github.com/melix/blog" class="bare">https://github.com/melix/blog</a>
-* <a href="https://github.com/rundis/blog" class="bare">https://github.com/rundis/blog</a></p>
+* <a href="https://github.com/rundis/blog" class="bare">https://github.com/rundis/blog</a>
+* <a href="http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/" class="bare">http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
 </div>
 <div class="paragraph">
-<p>Min prosess</p>
+<p>Min prosess på min Ubuntu-box</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>gvm install jbake 													<b class="conum">(1)</b>
+git init                                                            <b class="conum">(2)</b>
+git remote add origin &lt;your github remote url&gt;                      <b class="conum">(3)</b>
+mkdir -p src/jbake                                                  <b class="conum">(4)</b>
+gradle init                                                         <b class="conum">(5)</b>
+git add build.gradle gradle gradlew gradlew.bat settings.gradle src <b class="conum">(6)</b>
+cd src/jbake
+jbake -i                                                            <b class="conum">(7)</b></pre>
+</div>
+</div>
+<div class="colist arabic">
+<ol>
+<li>
+<p>initializes the git repository</p>
+</li>
+<li>
+<p>initializes the git repository</p>
+</li>
+<li>
+<p>add your remote</p>
+</li>
+<li>
+<p>we will put JBake sources into that directory</p>
+</li>
+<li>
+<p>installs the Gradle wrapper into the repository</p>
+</li>
+<li>
+<p>adds Gradle wrapper and initial structure into Git</p>
+</li>
+<li>
+<p>initializes the default JBake directory layout</p>
+</li>
+</ol>
 </div></p>
 
 	<hr />
