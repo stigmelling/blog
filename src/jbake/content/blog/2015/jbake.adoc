@@ -1,0 +1,36 @@
+title=Min blog
+date=2015-12-13
+type=post
+tags=blog, asciidoc
+status=draft
+~~~~~~
+= Jbake
+Stig Melling
+2015-12-11
+
+Som inspirasjon
+* http://jbake.org/
+* https://pages.github.com/
+* http://melix.github.io/blog/2014/02/hosting-jbake-github.html
+* https://github.com/melix/blog
+* https://github.com/rundis/blog
+* http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+Min prosess på min Ubuntu-box
+----
+gvm install jbake 													<1>
+git init                                                            <2>
+git remote add origin <your github remote url>                      <3>
+mkdir -p src/jbake                                                  <4>
+gradle init                                                         <5>
+git add build.gradle gradle gradlew gradlew.bat settings.gradle src <6>
+cd src/jbake
+jbake -i                                                            <6>
+----
+<1> initializes the git repository
+<2> initializes the git repository
+<3> add your remote
+<4> we will put JBake sources into that directory
+<5> installs the Gradle wrapper into the repository
+<6> adds Gradle wrapper and initial structure into Git
+<7> initializes the default JBake directory layout
