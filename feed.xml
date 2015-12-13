@@ -6,13 +6,13 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 11 Dec 2015 21:28:59 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 21:28:59 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 18:31:06 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 18:31:06 +0100</lastBuildDate>
 
     <item>
       <title>Rendering engine missing</title>
       <link>http://jbake.org/blog/2013/second-post.html</link>
-      <pubDate>Fri, 11 Dec 2015 21:28:59 +0100</pubDate>
+      <pubDate>Sun, 13 Dec 2015 18:31:05 +0100</pubDate>
       <guid isPermaLink="false">blog/2013/second-post.html</guid>
       	<description>
 	The markup engine [org.jbake.parser.MarkdownEngine] for [/home/stig/project/blog/src/jbake/content/blog/2013/second-post.md] couldn&apos;t be loaded
