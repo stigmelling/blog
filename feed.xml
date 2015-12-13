@@ -2,16 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JBake</title>
-    <link>http://jbake.org</link>
-    <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://stigmelling.github.io/blog/</link>
+    <atom:link href="http://stigmelling.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 13 Dec 2015 19:08:13 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 19:08:13 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 19:38:10 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 19:38:10 +0100</lastBuildDate>
 
     <item>
       <title>Min blog</title>
-      <link>http://jbake.org/blog/2015/min-blog.html</link>
+      <link>http://stigmelling.github.io/blog//blog/2015/jbake.html</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2015/jbake.html</guid>
+      	<description>
+	&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Som inspirasjon
+* &lt;a href=&quot;http://melix.github.io/blog/2014/02/hosting-jbake-github.html&quot; class=&quot;bare&quot;&gt;http://melix.github.io/blog/2014/02/hosting-jbake-github.html&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/melix/blog&quot; class=&quot;bare&quot;&gt;https://github.com/melix/blog&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/rundis/blog&quot; class=&quot;bare&quot;&gt;https://github.com/rundis/blog&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Min prosess&lt;/p&gt;
+&lt;/div&gt;
+	</description>
+    </item>
+    <item>
+      <title>Min blog</title>
+      <link>http://stigmelling.github.io/blog//blog/2015/min-blog.html</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0100</pubDate>
       <guid isPermaLink="false">blog/2015/min-blog.html</guid>
       	<description>
@@ -27,11 +44,23 @@ Dersom jeg klarer å bruke bloggen som en arena for å strukturere egne tanker o
 På fritiden går det med mye tid til gjøre spennende ting for IL Holeværingen og Ringerike o-lag.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Jeg skal skrive om
-* Løsninger jeg lager
-* Hva som er viktig for meg når jeg skal lage noe nytt
-* Egne erfaringer med tekniske krumspring
-* Egne erfaringer med ulike arrangement innen langrenn eller orientering&lt;/p&gt;
+&lt;p&gt;Jeg skal skrive om&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Løsninger jeg lager&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hva som er viktig for meg når jeg skal lage noe nytt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Egne erfaringer med tekniske krumspring&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Egne erfaringer med ulike arrangement innen langrenn eller orientering&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 	</description>
     </item>
