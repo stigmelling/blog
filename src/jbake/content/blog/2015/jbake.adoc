@@ -8,7 +8,8 @@ status=draft
 Stig Melling
 2015-12-11
 
-Som inspirasjon
+Disse resurssene har vært min inspirasjon
+
 * http://jbake.org/
 * https://pages.github.com/
 * http://melix.github.io/blog/2014/02/hosting-jbake-github.html
@@ -16,7 +17,7 @@ Som inspirasjon
 * https://github.com/rundis/blog
 * http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
-Min prosess på min Ubuntu-box
+Min prosess på Ubuntu
 ----
 gvm install jbake 													<1>
 git init                                                            <2>
