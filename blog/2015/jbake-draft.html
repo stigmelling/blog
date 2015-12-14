@@ -56,10 +56,10 @@
 		<h1>Jbake</h1>
 	</div>
 
-	<p><em>13 December 2015</em></p>
+	<p><em>14 December 2015</em></p>
 
 	<p><div class="paragraph">
-<p>Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blog på github.</p>
+<p>Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blogg på github.</p>
 </div>
 <div class="paragraph">
 <p>Disse resurssene har vært min inspirasjon</p>
@@ -86,9 +86,9 @@
 </li>
 </ul>
 </div>
-<div class="paragraph">
-<p>Prosessen på min Ubuntu</p>
-</div>
+<div class="sect1">
+<h2 id="_installasjon_på_min_ubuntu">Installasjon på min Ubuntu</h2>
+<div class="sectionbody">
 <div class="listingblock">
 <div class="content">
 <pre>gvm install jbake 													<b class="conum">(1)</b>
@@ -125,6 +125,50 @@ jbake -i                                                            <b class="co
 <p>initializes the default JBake directory layout</p>
 </li>
 </ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_problemer">Problemer</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>publish fungerer ikke
+Endret publish.gradle</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_nye_innlegg">Nye innlegg</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Terminalvindu som kjører en jbake-server på <a href="http://localhost:8820/" class="bare">http://localhost:8820/</a></p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>jbake -s ./build/jbake/</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Terminalvindu der jeg baker endringer.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>gradlew jbake</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Når jeg er klar for publisering av nye innlegg.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>git add .
+git commit -m "Ett nytt innlegg"
+git publish origin master
+
+graldew publish</pre>
+</div>
+</div>
+</div>
 </div></p>
 
 	<hr />
