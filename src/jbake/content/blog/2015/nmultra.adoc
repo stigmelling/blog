@@ -1,3 +1,4 @@
+title=Liveresultater på NM Ultralang i orientering 2015
 date=2015-12-13
 type=post
 tags=nm, orientering
@@ -25,7 +26,7 @@ I mine tidligere prosjekt, har det vært vanlig med en myk "igangkjøring" der e
 
 En resultattjeneste for ett løp som bare gjennomføres den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
 
-Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til spenningen (http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320 [_Ny teknologi gjør at publikum kan følge løperne gjennom det meste av løpet. Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
+Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til spenningen (http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320[_Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
 
 Det gikk bra !!!
 
