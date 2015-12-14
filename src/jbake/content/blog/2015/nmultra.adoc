@@ -8,6 +8,7 @@ status=draft
 Stig Melling
 2015-12-13
 
+image::rb_eliten_kommer.png[]
 image::LOGO-NM-ULTRA-2015.png[]
 
 Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
@@ -20,13 +21,11 @@ I den forbindelse måtte det utvikles en ny løsning for liveresultater - vi had
 
 Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke ved første storskala forsøk kan jo ikke kategoriseres som noe annet enn spennende. 
 
-I de fleste andre prosjekt som jeg har hatt ansvar for, så har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart". 
+I mine tidligere prosjekt, har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart". 
 
-En resultatservice for ett løp som bare gjennomføres fra kl. 10:00 den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
-Med litt medieomtale i forkant - gir det jo også litt ekstra nervepress
+En resultattjeneste for ett løp som bare gjennomføres den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
 
-* http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553
-* http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320
+Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til spenningen (http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320 [_Ny teknologi gjør at publikum kan følge løperne gjennom det meste av løpet. Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
 
 Det gikk bra !!!
 
