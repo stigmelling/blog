@@ -3,6 +3,7 @@ date=2015-12-13
 type=post
 tags=nm, orientering
 status=draft
+imagesdir=/blog/2015/
 ~~~~~~
 = Liveresultater på NM Ultralang i orientering på Ringerike
 Stig Melling
