@@ -1,13 +1,9 @@
 title=NM Ultralang - Brukergrensesnitt
-date=2015-12-13
+date=2015-12-16
 type=post
-tags=nm, orientering
+tags=nm, orientering, gui
 status=draft
 ~~~~~~
-= NM Ultralang - brukergrensesnitt
-Stig Melling
-2015-12-13
-
 
 Jeg har tidligere skrevet at 
 Stikkord

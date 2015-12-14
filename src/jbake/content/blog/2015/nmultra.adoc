@@ -1,22 +1,19 @@
 title=Liveresultater på NM Ultralang i orientering 2015
-date=2015-12-13
+date=2015-12-15
 type=post
 tags=nm, orientering
-status=draft
+status=published
 ~~~~~~
-= Liveresultater på NM Ultralang i orientering 2015
-Stig Melling
-2015-12-13
 :imagesdir: ../../img/2015
-
-image::rb_eliten_kommer.png[title="Oppslag i Ringerikes Blad", width="90%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
 
 Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
 
 Ja det kan du jo lure på. NM Ultralang er ikke noe nytt - heller ikke liveresultater i fra orienteringsløp. 
 
-Ringerike o-lag med sine sammarbeidsparter skulle arrangere NM Ultralang i august 2015. 
-Det var viktig for oss å bruke denne anledningen til å bygge egen kompetanse ved å gjennomføre ett så viktig løp. 
+image::LOGO-NM-ULTRA-2015.png[width="50%", link="http://nmultra2015.no"]
+
+Ringerike o-lag med sine sammarbeidsparter arrangerete NM Ultralang i august 2015. 
+Det var viktig for oss å bruke denne anledningen til å bygge egen arrangør-kompetanse ved å gjennomføre ett så viktig løp. 
 Vi ønsket derfor å ta ansvar for tidtakertjenesten med tilhørende resultatservice. 
 Norges orienteringsforbund sier OK - så lenge vi klarer å stable på beina en resultattjenste som er på høyde med det publikum forventer i denne type arrangement. 
 
@@ -24,18 +21,17 @@ Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke
 
 I mine tidligere prosjekt, har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart". 
 
-En resultattjeneste for ett løp som bare gjennomføres den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
+En resultattjeneste for ett løp som bare gjennomføres den 22/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
 
-Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til spenningen (http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320[_Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
+Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til hverdagen (http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553[_Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
 
-Det gikk bra !!!
+...og det gikk superbra !!!
 
 For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skrive litt om i nye innlegg
 
 * Lage ett brukergrensesnitt som er mobilvennlig, raskt, lett å forstå og samtidig innholdsrikt 
 * Bygge en infrastruktur som kan håndtere mange mellomtidsstasjoner uten at "sekreteriatet" skal bli en flaskehals
 * Bygge en løsning som er skalerbar i forhold til antall brukere og ikke minst kostnader
-* Ett administrasjonsgrensesnitt som gjør det mulig å sette opp ett nytt løp i fra mobiltelefonen
+* Gjør det enkelt å administrere slik at andre arrangører på sikt kan sette opp tilsvarende resultattjeneste i fra mobiltelefonen.
 
-image::LOGO-NM-ULTRA-2015.png[title="NMUltra logo", width="70%", link="http://nmultra2015.no"]
-
+image::rb_eliten_kommer.png[width="50%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]

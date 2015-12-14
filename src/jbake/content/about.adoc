@@ -1,10 +1,24 @@
-title=About
-date=2015-12-13
+title=Om meg og min blogg
+date=2015-12-12
 type=page
 status=published
 ~~~~~~
+:imagesdir: ../../img/2015
+
+Juhu... jeg har min egen Blog. Jeg antar at resten av verden bevarer fatningen og er rolig avventende.
+
+Dersom jeg klarer å bruke bloggen som en arena for å strukturere egne tanker og erfaringer knyttet til det å lage gode løsninger - så er jeg mer enn fornøyd. 
 
 Jeg jobber som konsulent i Kodemaker Systemutvikling. Du kan lese om oss på http://kodemaker.no og du kan lese om meg på http://kodemaker.no/stig
 
 Jeg er veldig fornøyd med jobben min. Det er fantastisk å få betalt for å gjøre noe som er så gøy og spennende. 
 På fritiden går det med mye tid til gjøre spennende ting for IL Holeværingen og Ringerike o-lag.
+
+Jeg skal skrive om 
+
+* Løsninger jeg lager
+* Hva som er viktig for meg når jeg skal lage noe nytt
+* Egne erfaringer med tekniske krumspring 
+* Egne erfaringer med ulike arrangement innen langrenn eller orientering
+
+image::km_shirt.jpg[width="60%", link="http://kodemaker.no"]

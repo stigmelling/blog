@@ -1,14 +1,11 @@
 title=Jbake
-date=2015-12-13
+date=2015-12-14
 type=post
-tags=blog, github, groovy-guru, asciidoc
+tags=blogg, github, groovy-guru, asciidoc
 status=draft
 ~~~~~~
-= Jbake
-Stig Melling
-2015-12-11
 
-Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blog på github.
+Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blogg på github.
 
 Disse resurssene har vært min inspirasjon
 
@@ -19,7 +16,7 @@ Disse resurssene har vært min inspirasjon
 * https://github.com/rundis/blog
 * http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
-Prosessen på min Ubuntu
+== Installasjon på min Ubuntu
 ----
 gvm install jbake 													<1>
 git init                                                            <2>
@@ -29,6 +26,7 @@ gradle init                                                         <5>
 git add build.gradle gradle gradlew gradlew.bat settings.gradle src <6>
 cd src/jbake
 jbake -i                                                            <7>
+
 ----
 <1> initializes the git repository
 <2> initializes the git repository
@@ -37,3 +35,29 @@ jbake -i                                                            <7>
 <5> installs the Gradle wrapper into the repository
 <6> adds Gradle wrapper and initial structure into Git
 <7> initializes the default JBake directory layout
+
+
+== Problemer
+publish fungerer ikke
+Endret publish.gradle
+
+== Nye innlegg
+
+Terminalvindu som kjører en jbake-server på http://localhost:8820/
+----
+jbake -s ./build/jbake/
+----
+
+Terminalvindu der jeg baker endringer. 
+----
+gradlew jbake
+----
+
+Når jeg er klar for publisering av nye innlegg.
+----
+git add .
+git commit -m "Ett nytt innlegg"
+git publish origin master
+
+graldew publish
+----
