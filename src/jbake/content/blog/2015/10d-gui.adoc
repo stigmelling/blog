@@ -1,0 +1,23 @@
+title=NM Ultralang - Brukergrensesnitt
+date=2015-12-13
+type=post
+tags=nm, orientering
+status=draft
+~~~~~~
+= NM Ultralang - brukergrensesnitt
+Stig Melling
+2015-12-13
+
+
+Jeg har tidligere skrevet at 
+Stikkord
+
+* Leveranser
+** Utplassering av mellomtider
+** Resultattjenester på nett
+*** Startlister
+*** Mellomtider i fra skogen
+*** Sluttresultater 
+** Speakerstøtte
+** Diskkontroll
+

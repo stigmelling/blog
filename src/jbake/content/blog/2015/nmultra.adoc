@@ -1,0 +1,47 @@
+title=NM Ultralang i orientering på Ringerike
+date=2015-12-13
+type=post
+tags=nm, orientering
+status=draft
+~~~~~~
+= Liveresultater på NM Ultralang i orientering på Ringerike
+Stig Melling
+2015-12-13
+
+Stikkord
+
+* Leveranser
+** Utplassering av mellomtider
+** Resultattjenester på nett
+*** Startlister
+*** Mellomtider i fra skogen
+*** Sluttresultater 
+** Speakerstøtte
+** Diskkontroll
+
+Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
+Ja det kan du jo lure på. NM Ultralang er ikke noe nytt - heller ikke liveresultater i fra orienteringsløp. 
+
+Ringerike o-lag med sine sammarbeidsparter skulle arrangere NM Ultralang i august 2015. 
+Det var viktig for oss å bruke denne anledningen til å bygge egen kompetanse på gjennomføring av ett så viktige arrangement. 
+Vi ønsket derfor å ta ansvar for tidtakertjenesten med tilhørende resultatservice. 
+I den forbindelse måtte det utvikles en ny løsning for liveresultater - vi hadde jo ikke rettigheter på bruk av en slik tjeneste i fra før. 
+
+Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke ved første storskala forsøk kan jo ikke kategoriseres som noe annet enn spennende. 
+
+I de fleste andre prosjekt som jeg har hatt ansvar for, så har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart". 
+
+En resultatservice for ett løp som bare gjennomføres fra kl. 10:00 den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
+
+Det gikk bra !!!
+
+For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skrive litt om i nye innlegg
+
+* Lage ett brukergrensesnitt som er mobilvennlig, oppdatert, lett å forstå og samtidig innholdsrik 
+* Bygge en infrastruktur som kan håndtere mange mellomtidsstasjoner uten at "sekreteriatet" skal bli en flaskehals
+* Bygge integrasjoner som gjør det lett å sett opp løp
+* En skalerbar løsning som kan settes opp etter behov uten store faste kostnader
+* Ett administrasjonsgrensesnitt som gjør det mulig å sette opp ett nytt løp i fra mobiltelefonen
+
+
+

@@ -1,12 +1,14 @@
-title=Min blog
+title=Jbake
 date=2015-12-13
 type=post
-tags=blog, asciidoc
+tags=blog, github, groovy-guru, asciidoc
 status=draft
 ~~~~~~
 = Jbake
 Stig Melling
 2015-12-11
+
+Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blog på github.
 
 Disse resurssene har vært min inspirasjon
 
@@ -17,7 +19,7 @@ Disse resurssene har vært min inspirasjon
 * https://github.com/rundis/blog
 * http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
-Min prosess på Ubuntu
+Prosessen på min Ubuntu
 ----
 gvm install jbake 													<1>
 git init                                                            <2>
