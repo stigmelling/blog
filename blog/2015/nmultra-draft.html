@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Jbake</title>
+    <title>NM Ultralang i orientering på Ringerike</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -53,78 +53,93 @@
     </div>
     <div class="container">	
 	<div class="page-header">
-		<h1>Jbake</h1>
+		<h1>NM Ultralang i orientering på Ringerike</h1>
 	</div>
 
 	<p><em>13 December 2015</em></p>
 
 	<p><div class="paragraph">
-<p>Her er en kort oppsummering av min installasjon av jbake og opprettelsen av min blog på github.</p>
-</div>
-<div class="paragraph">
-<p>Disse resurssene har vært min inspirasjon</p>
+<p>Stikkord</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p><a href="http://jbake.org/" class="bare">http://jbake.org/</a></p>
+<p>Leveranser</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Utplassering av mellomtider</p>
 </li>
 <li>
-<p><a href="https://pages.github.com/" class="bare">https://pages.github.com/</a></p>
+<p>Resultattjenester på nett</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Startlister</p>
 </li>
 <li>
-<p><a href="http://melix.github.io/blog/2014/02/hosting-jbake-github.html" class="bare">http://melix.github.io/blog/2014/02/hosting-jbake-github.html</a></p>
+<p>Mellomtider i fra skogen</p>
 </li>
 <li>
-<p><a href="https://github.com/melix/blog" class="bare">https://github.com/melix/blog</a></p>
+<p>Sluttresultater</p>
+</li>
+</ul>
+</div>
 </li>
 <li>
-<p><a href="https://github.com/rundis/blog" class="bare">https://github.com/rundis/blog</a></p>
+<p>Speakerstøtte</p>
 </li>
 <li>
-<p><a href="http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/" class="bare">http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
+<p>Diskkontroll</p>
+</li>
+</ul>
+</div>
 </li>
 </ul>
 </div>
 <div class="paragraph">
-<p>Prosessen på min Ubuntu</p>
+<p>Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
+Ja det kan du jo lure på. NM Ultralang er ikke noe nytt - heller ikke liveresultater i fra orienteringsløp.</p>
 </div>
-<div class="listingblock">
-<div class="content">
-<pre>gvm install jbake 													<b class="conum">(1)</b>
-git init                                                            <b class="conum">(2)</b>
-git remote add origin &lt;your github remote url&gt;                      <b class="conum">(3)</b>
-mkdir -p src/jbake                                                  <b class="conum">(4)</b>
-gradle init                                                         <b class="conum">(5)</b>
-git add build.gradle gradle gradlew gradlew.bat settings.gradle src <b class="conum">(6)</b>
-cd src/jbake
-jbake -i                                                            <b class="conum">(7)</b></pre>
+<div class="paragraph">
+<p>Ringerike o-lag med sine sammarbeidsparter skulle arrangere NM Ultralang i august 2015.
+Det var viktig for oss å bruke denne anledningen til å bygge egen kompetanse på gjennomføring av ett så viktige arrangement.
+Vi ønsket derfor å ta ansvar for tidtakertjenesten med tilhørende resultatservice.
+I den forbindelse måtte det utvikles en ny løsning for liveresultater - vi hadde jo ikke rettigheter på bruk av en slik tjeneste i fra før.</p>
 </div>
+<div class="paragraph">
+<p>Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke ved første storskala forsøk kan jo ikke kategoriseres som noe annet enn spennende.</p>
 </div>
-<div class="colist arabic">
-<ol>
+<div class="paragraph">
+<p>I de fleste andre prosjekt som jeg har hatt ansvar for, så har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart".</p>
+</div>
+<div class="paragraph">
+<p>En resultatservice for ett løp som bare gjennomføres fra kl. 10:00 den 23/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.</p>
+</div>
+<div class="paragraph">
+<p>Det gikk bra !!!</p>
+</div>
+<div class="paragraph">
+<p>For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skrive litt om i nye innlegg</p>
+</div>
+<div class="ulist">
+<ul>
 <li>
-<p>initializes the git repository</p>
+<p>Lage ett brukergrensesnitt som er mobilvennlig, oppdatert, lett å forstå og samtidig innholdsrik</p>
 </li>
 <li>
-<p>initializes the git repository</p>
+<p>Bygge en infrastruktur som kan håndtere mange mellomtidsstasjoner uten at "sekreteriatet" skal bli en flaskehals</p>
 </li>
 <li>
-<p>add your remote</p>
+<p>Bygge integrasjoner som gjør det lett å sett opp løp</p>
 </li>
 <li>
-<p>we will put JBake sources into that directory</p>
+<p>En skalerbar løsning som kan settes opp etter behov uten store faste kostnader</p>
 </li>
 <li>
-<p>installs the Gradle wrapper into the repository</p>
+<p>Ett administrasjonsgrensesnitt som gjør det mulig å sette opp ett nytt løp i fra mobiltelefonen</p>
 </li>
-<li>
-<p>adds Gradle wrapper and initial structure into Git</p>
-</li>
-<li>
-<p>initializes the default JBake directory layout</p>
-</li>
-</ol>
+</ul>
 </div></p>
 
 	<hr />
