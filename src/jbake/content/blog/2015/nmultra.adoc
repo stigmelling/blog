@@ -4,7 +4,7 @@ type=post
 tags=nm, orientering
 status=published
 ~~~~~~
-:imagesdir: ../img/2015
+:imagesdir: /blog/img/2015
 
 Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
 
