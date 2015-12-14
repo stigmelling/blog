@@ -3,7 +3,7 @@ date=2015-12-12
 type=page
 status=published
 ~~~~~~
-:imagesdir: ../../img/2015
+:imagesdir: ../img/2015
 
 Juhu... jeg har min egen Blog. Jeg antar at resten av verden bevarer fatningen og er rolig avventende.
 
