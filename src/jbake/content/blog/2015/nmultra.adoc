@@ -1,4 +1,3 @@
-title=NMUltra
 date=2015-12-13
 type=post
 tags=nm, orientering
@@ -9,8 +8,7 @@ Stig Melling
 2015-12-13
 :imagesdir: ../../img/2015
 
-image::rb_eliten_kommer.png[]
-image::LOGO-NM-ULTRA-2015.png[]
+image::rb_eliten_kommer.png[title="Oppslag i Ringerikes Blad", width="90%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
 
 Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
 
@@ -38,5 +36,5 @@ For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skriv
 * Bygge en løsning som er skalerbar i forhold til antall brukere og ikke minst kostnader
 * Ett administrasjonsgrensesnitt som gjør det mulig å sette opp ett nytt løp i fra mobiltelefonen
 
-
+image::LOGO-NM-ULTRA-2015.png[title="NMUltra logo", width="70%", link="http://nmultra2015.no"]
 
