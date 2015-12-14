@@ -7,7 +7,7 @@ status=draft
 = Liveresultater på NM Ultralang i orientering 2015
 Stig Melling
 2015-12-13
-:imagesdir: assets/img/2015
+:imagesdir: ../../img/2015
 
 image::rb_eliten_kommer.png[]
 image::LOGO-NM-ULTRA-2015.png[]
