@@ -6,43 +6,50 @@ status=draft
 ~~~~~~
 :imagesdir: /blog/img/2015
 
-== Liveresultater på NM-Ultralang i orientering - er det spennende da?
+== Orientering - er det spennende da?
+Orientering er fasinerende. Det å løpe fort i skogen, samtidig som du må ha med deg hodet – gir et eget kick når du lykkes. Det er en egen mestringsfølelse å finne frem i ukjent terreng med kart og kompass.
+Når det er mesterskap blir det ekstra spennende, men det har ikke alltid vært like lett for publikum å ta del i denne spenningen. 
+Mange husker kanskje Bård Tufte Johannesens orienterings sketsj i fra «Tre brødre som ikke er brødre» på NRK. Bård  var orienteringsentusiast og trofast publikum på o-løp. https://www.youtube.com/watch?v=cyGr8QhZA30[Det var flott å se løpere som løp ut i skogen ... og som kom tilbake en stund senere. Det var ikke fritt for at det ble en del venting]. 
 
-Ja det kan du jo lure på. NM Ultralang er ikke noe nytt - heller ikke liveresultater i fra orienteringsløp. 
+Nå er det slutt på ventingen. Alle mesterskap og større løp har live mellomtider i fra skogen. De beste løperene følges også med GPS.
+Hva er så nytt med NM Ultralang på Ringerike? 
 
 image::LOGO-NM-ULTRA-2015.png[width="50%", link="http://nmultra2015.no"]
 
 Ringerike o-lag med sine sammarbeidsparter arrangerete NM Ultralang i august 2015. 
 Det var viktig for oss å bruke denne anledningen til å bygge egen arrangør-kompetanse ved å gjennomføre ett så viktig løp. 
-Vi ønsket derfor å ta ansvar for tidtakertjenesten med tilhørende resultatservice. 
-Norges orienteringsforbund sier OK - så lenge vi klarer å stable på beina en resultattjenste som er på høyde med det publikum forventer i denne type arrangement. 
+Vi ønsket derfor selv å ta ansvar for tidtakertjenesten med tilhørende resultatservice. 
+Det var OK for Norges orienteringsforbund - så lenge vi klarer å stable på beina en resultattjenste som er på høyde med det publikum forventer i denne type arrangement. 
 
 Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke ved første storskala forsøk kan jo ikke kategoriseres som noe annet enn spennende. 
 
-I mine tidligere prosjekt, har det vært vanlig med en myk "igangkjøring" der eventuelle problemstillinger kunne håndteres og rettes "i fart". 
+I de fleste systemutviklingsprosjekt, er det mulig med en myk "igangkjøring" der eventuelle problemstillinger kan håndteres og rettes "i fart". 
 
-En resultattjeneste for ett løp som bare gjennomføres den 22/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så er det fiasko.
+En resultattjeneste for ett løp som bare gjennomføres den 22/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så blir det fiasko.
 
 Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til hverdagen (http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553[_Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer._])
 
-...og det gikk superbra !!!
+Her var det flere nye og spennende utfordringer ...og det gikk superbra !!!
 
-For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skrive litt om i nye innlegg
+image::rb_eliten_kommer.png[width="70%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
 
-* Lage ett brukergrensesnitt som er mobilvennlig, raskt, lett å forstå og samtidig innholdsrikt 
-* Bygge en infrastruktur som kan håndtere mange mellomtidsstasjoner uten at "sekreteriatet" skal bli en flaskehals
-* Bygge en løsning som er skalerbar i forhold til antall brukere og ikke minst kostnader
-* Gjør det enkelt å administrere slik at andre arrangører på sikt kan sette opp tilsvarende resultattjeneste i fra mobiltelefonen.
+== Løsningen som ble utviklet
+For å forstå hvordan de viktigste behovene - uansett løsning - skal dekkes, liker jeg å dvele litt ved følgende elementer: 
 
-image::rb_eliten_kommer.png[width="50%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
+* intresenter/roller
+* begrep og deres relasjoner
+* målsetninger
+* krav og regler
+* prosesser 
+* krav til systemstøtte/funksjonalitet (dette er egenglig det som er minst viktig - mer om det i ett annet innlegg) 
 
-== Brukergrensesnitt
-For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende elementer: roller, begrep og deres relasjoner, målsetninger, krav og regler, prosesser og til slutt krav til systemstøtte/funksjonalitet. Jeg kommer til å skrive ett eget innlegg om hvorfor jeg synes dette er viktige elementer i alt arbeid med å lage gode løsninger .... følg med.
 
 ===Intresenter: 
-
-* publikum på arena
+Den viktigste målgruppen er selvfølgelig publikum, men også arrangørene har stor glede av å kunne følge utviklingen i løpet på en enkel måte
+Her er listen over de viktigste intresentene:
+* lagledere på arena
 * publikum på nett
+* presse
 * deltagere
 * info-kiosk på samlingsplass
 * arrangør - premieutdeling
@@ -51,6 +58,7 @@ For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende ele
 * arrangør - sekreteriat
 
 ===Målsetninger: 
+Dette er de viktig behovene som skal dekkes:
 
 * Rask og enkel tilgang til startlister, mellomtider og resultatlister 
 * Få oversikt over hvor mange løpere som ikke har passert ulike poster
@@ -58,14 +66,26 @@ For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende ele
 * Responsivt design som fungerer på mobiltelefon, nettbrett eller pc
 * Fremhev de siste oppdateringene
 * Synliggjør løpere som kan hevde seg i toppen
+* Synliggjør løpere som endrer plassering i fra en mellomtid til den neste 
 * Gjør det enkelt å følge utvalgte klasser
 * Gjør det enkelt å følge utvalgte klubber
+* Det skal fungere med opptil 15 mellomtidsstasjoner
+* Brukergrensesnittet skal være lett å forstå  
+* Bygge en infrastruktur som kan håndtere mange mellomtidsstasjoner uten at "sekreteriatet" skal bli en flaskehals
+* Bygge en løsning som er skalerbar i forhold til antall brukere og ikke minst kostnader
+* Gjør det enkelt å administrere slik at andre arrangører på sikt kan sette opp tilsvarende resultattjeneste i fra mobiltelefonen.
 
-===Resultatet
+===Brukergrensesnittet
+
+Jeg grublet veldig på hvilket hostnavn jeg skulle benytte. Det må jo være kort og litt utenfor normalen for å bli husket. 
+Valget falt til slutt på 10d som i TID. Akurat passe kort og odde som jeg ønsket.  
+
+Når du åpner nettsiden - blir du automatisk sendt til dagens arrangement. 
+Det er 3 sentrale “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den røde velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).
+Pilene til høyre og venstre for klassevelger/stedsvelger er “karusellknapper” som gjør det enkelt å navigere til neste klasse/sted. Karusellknappene for klassevelger – navigerer til neste/forrige favorittklasse. 
+
 image::10d_liste.png[]
 
-Det er 3 “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den rød velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).
-Pilene til høyre og venstre for klassevelger/stedsvelger er “karusellknapper” som gjør det enkelt å navigere til neste klasse/sted. Karusellknappene for klassevelger – navigerer til neste/forrige favorittklasse. 
 
 Det er også en blå “favoritt-stjerne” som markerer om en klasse er med i  din favorittliste eller ikke. De blå karusellknappene skifter mellom klassene i favorittlisten. Alle klasser er med i favorittlisten når du starter nettsiden. 
 
@@ -74,19 +94,46 @@ image::10d_sted.png[]
 
 Mellomtider/sluttider oppdaterers automatisk. Tider som er nye markeres med rødt. 
 Listene viser registrerte passeringer og “virituelle” plasseringer for løpere som vi venter på. “Virituelle” plasseringer hentes i fra forrige mellomtidsstasjon.
+
 image::10d_endret.png[]
 
 Du kan filtrere alle lister ved å skrive inn hele eller deler av ett klubbnavn. Dette filteret kan du ta bort ved å krysse på x-knappen ved siden av filteret.
 
 image::10d_filter.png[]
 
+===Bruksmønster
+
+image::10d_analyse_tid.png[]
+
+image::10d_analyse_sted.png[]
+
+===Oppsett og administrasjon
+Tjenesten er utviklet som en webapplikasjon som kjører i ett java-miljø. 
+Jeg benyttet servere hos Amazon Web services. Her er det veldig enkelt å velge den serverkraften som er nødvenidg for å ha kraft nok til å håndtere forventet antall brukere. 
+
+Serveren kan startes i fra AWS sin egen mobil-applikasjon i på telefonen. 
+
+image::10d_aws_start.png[]
+
+Tjenesten kan operere det meste i fra "skyen". Mellomtider og sluttider lastes ned i fra Emits onlineservere. Startlister lastes ned i fra Eventor. 
+Det er bare diskkontroll som gjøres i målsonens. Alle "avvik" ble overført til skyen - slik at diskstatus, brikkenummer og evnt. andre endringer til enhver tid var oppdatert.
+
+Løpet kan enkelt opprettes ved å hente dette i fra Eventor.
+
+Hvilke mellomtidsstasjoner som skal benyttes kan hentes inn på to måter.
+
+* Manuell registrering
+* Automatisk import av de som er aktive (online)
+
+
 ===Vurdering
-Veldig fornøyd.
-Oppleves som oppdatert og responsivt
-Litt trangt runt noen knapper
-Ikke optimal bruk av tilgjengelig plass på en pc-skjerm
-Fikk en dårlig tilbakemelding
-Fikk flere gode tilbakemeldinger
+Jeg er veldig fornøyd.
+Løsningen opplevdes oppdatert og rask under hele løpet. 
+Det er litt trangt runt noen knapper - så det kan jo bli bedre. 
+Det ble litt mye mobilfokus - slik at den utnytter ikke tilgjengelig plass på en pc-skjerm
+Jeg fikk en dårlig tilbakemelding - den svei.
+... men jeg fikk mange gode tilbakemeldinger som varmet.
+
 
 Dette var artig.
 
