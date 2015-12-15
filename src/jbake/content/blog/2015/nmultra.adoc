@@ -43,11 +43,17 @@ For å forstå hvordan de viktigste behovene - uansett løsning - skal dekkes, l
 * prosesser 
 * krav til systemstøtte/funksjonalitet (dette er egenglig det som er minst viktig - mer om det i ett annet innlegg) 
 
-
 ===Intresenter: 
 Den viktigste målgruppen er selvfølgelig publikum, men også arrangørene har stor glede av å kunne følge utviklingen i løpet på en enkel måte
 Her er listen over de viktigste intresentene:
 * lagledere på arena
+
+=== Brukergrensesnitt
+For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende elementer: roller, begrep og deres relasjoner, målsetninger, krav og regler, prosesser og til slutt krav til systemstøtte/funksjonalitet. Jeg kommer til å skrive ett eget innlegg om hvorfor jeg synes dette er viktige elementer i alt arbeid med å lage gode løsninger .... følg med.
+
+==== Intresenter: 
+
+* publikum på arena
 * publikum på nett
 * presse
 * deltagere
@@ -57,7 +63,7 @@ Her er listen over de viktigste intresentene:
 * arrangør - drikkestasjoner
 * arrangør - sekreteriat
 
-===Målsetninger: 
+==== Målsetninger: 
 Dette er de viktig behovene som skal dekkes:
 
 * Rask og enkel tilgang til startlister, mellomtider og resultatlister 
@@ -79,6 +85,8 @@ Dette er de viktig behovene som skal dekkes:
 
 Jeg grublet veldig på hvilket hostnavn jeg skulle benytte. Det må jo være kort og litt utenfor normalen for å bli husket. 
 Valget falt til slutt på 10d som i TID. Akurat passe kort og odde som jeg ønsket.  
+
+image::10d_liste.png[]
 
 Når du åpner nettsiden - blir du automatisk sendt til dagens arrangement. 
 Det er 3 sentrale “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den røde velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).
@@ -137,4 +145,4 @@ Jeg fikk en dårlig tilbakemelding - den svei.
 
 Dette var artig.
 
-image::10_face.png[]
+image::10d_face.png[]
