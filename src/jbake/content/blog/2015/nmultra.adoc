@@ -36,10 +36,10 @@ For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skriv
 
 image::rb_eliten_kommer.png[width="50%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
 
-== Brukergrensesnitt
+=== Brukergrensesnitt
 For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende elementer: roller, begrep og deres relasjoner, målsetninger, krav og regler, prosesser og til slutt krav til systemstøtte/funksjonalitet. Jeg kommer til å skrive ett eget innlegg om hvorfor jeg synes dette er viktige elementer i alt arbeid med å lage gode løsninger .... følg med.
 
-===Intresenter: 
+==== Intresenter: 
 
 * publikum på arena
 * publikum på nett
@@ -50,7 +50,7 @@ For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende ele
 * arrangør - drikkestasjoner
 * arrangør - sekreteriat
 
-===Målsetninger: 
+==== Målsetninger: 
 
 * Rask og enkel tilgang til startlister, mellomtider og resultatlister 
 * Få oversikt over hvor mange løpere som ikke har passert ulike poster
@@ -61,7 +61,7 @@ For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende ele
 * Gjør det enkelt å følge utvalgte klasser
 * Gjør det enkelt å følge utvalgte klubber
 
-===Resultatet
+==== Resultatet
 image::10d_liste.png[]
 
 Det er 3 “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den rød velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).
@@ -80,7 +80,7 @@ Du kan filtrere alle lister ved å skrive inn hele eller deler av ett klubbnavn.
 
 image::10d_filter.png[]
 
-===Vurdering
+==== Vurdering
 Veldig fornøyd.
 Oppleves som oppdatert og responsivt
 Litt trangt runt noen knapper
@@ -90,4 +90,4 @@ Fikk flere gode tilbakemeldinger
 
 Dette var artig.
 
-image::10_face.png[]
+image::10d_face.png[]
