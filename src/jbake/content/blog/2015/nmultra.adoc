@@ -2,11 +2,11 @@ title=Liveresultater på NM Ultralang i orientering 2015
 date=2015-12-15
 type=post
 tags=nm, orientering
-status=published
+status=draft
 ~~~~~~
 :imagesdir: /blog/img/2015
 
-Hvorfor skrive om Liveresultater på NM-Ultralang i orientering?
+== Liveresultater på NM-Ultralang i orientering - er det spennende da?
 
 Ja det kan du jo lure på. NM Ultralang er ikke noe nytt - heller ikke liveresultater i fra orienteringsløp. 
 
@@ -35,3 +35,59 @@ For meg var det flere nye spennende utfordringer som jeg tenkte jeg skulle skriv
 * Gjør det enkelt å administrere slik at andre arrangører på sikt kan sette opp tilsvarende resultattjeneste i fra mobiltelefonen.
 
 image::rb_eliten_kommer.png[width="50%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
+
+== Brukergrensesnitt
+For å forstå behov som skal dekkes - liker jeg å dvele litt ved følgende elementer: roller, begrep og deres relasjoner, målsetninger, krav og regler, prosesser og til slutt krav til systemstøtte/funksjonalitet. Jeg kommer til å skrive ett eget innlegg om hvorfor jeg synes dette er viktige elementer i alt arbeid med å lage gode løsninger .... følg med.
+
+===Intresenter: 
+
+* publikum på arena
+* publikum på nett
+* deltagere
+* info-kiosk på samlingsplass
+* arrangør - premieutdeling
+* arrangør - startere
+* arrangør - drikkestasjoner
+* arrangør - sekreteriat
+
+===Målsetninger: 
+
+* Rask og enkel tilgang til startlister, mellomtider og resultatlister 
+* Få oversikt over hvor mange løpere som ikke har passert ulike poster
+* Resultater og mellomtider skal presenteres uten forsinkelse 
+* Responsivt design som fungerer på mobiltelefon, nettbrett eller pc
+* Fremhev de siste oppdateringene
+* Synliggjør løpere som kan hevde seg i toppen
+* Gjør det enkelt å følge utvalgte klasser
+* Gjør det enkelt å følge utvalgte klubber
+
+===Resultatet
+image::10d_liste.png[]
+
+Det er 3 “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den rød velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).
+Pilene til høyre og venstre for klassevelger/stedsvelger er “karusellknapper” som gjør det enkelt å navigere til neste klasse/sted. Karusellknappene for klassevelger – navigerer til neste/forrige favorittklasse. 
+
+Det er også en blå “favoritt-stjerne” som markerer om en klasse er med i  din favorittliste eller ikke. De blå karusellknappene skifter mellom klassene i favorittlisten. Alle klasser er med i favorittlisten når du starter nettsiden. 
+
+image::10d_klasse.png[]
+image::10d_sted.png[]
+
+Mellomtider/sluttider oppdaterers automatisk. Tider som er nye markeres med rødt. 
+Listene viser registrerte passeringer og “virituelle” plasseringer for løpere som vi venter på. “Virituelle” plasseringer hentes i fra forrige mellomtidsstasjon.
+image::10d_endret.png[]
+
+Du kan filtrere alle lister ved å skrive inn hele eller deler av ett klubbnavn. Dette filteret kan du ta bort ved å krysse på x-knappen ved siden av filteret.
+
+image::10d_filter.png[]
+
+===Vurdering
+Veldig fornøyd.
+Oppleves som oppdatert og responsivt
+Litt trangt runt noen knapper
+Ikke optimal bruk av tilgjengelig plass på en pc-skjerm
+Fikk en dårlig tilbakemelding
+Fikk flere gode tilbakemeldinger
+
+Dette var artig.
+
+image::10_face.png[]
