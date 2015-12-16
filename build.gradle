@@ -22,14 +22,9 @@ jbake {
     clearCache = true
 }
 
-task publish(type: GradleBuild) {
+task publish(type: GradleBuild, dependsOn:jbake) {
     buildFile = 'publish.gradle'
     tasks = ['publishGhPages']
-}
-
-task dev_web (type: Sync) {
-  from jbake.output
-  into 'web/blog'
 }
 
 watch {
