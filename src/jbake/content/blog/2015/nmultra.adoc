@@ -31,7 +31,7 @@ Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt e
 
 Her var det flere nye og spennende utfordringer.
 
-image::rb_eliten_kommer.png[width="70%", link="http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553"]
+image::rb_eliten_kommer.png[width="70%", link="http://www.ringblad.no/orientering/sport/lordag-kommer-landets-beste-til-ringerike/s/5-45-117320"]
 
 == Løsningen som ble utviklet
 For å forstå behov som skal dekkes - uansett løsning, liker jeg å dvele litt ved følgende elementer: 
@@ -40,7 +40,7 @@ For å forstå behov som skal dekkes - uansett løsning, liker jeg å dvele litt
 * hvilke begrep benyttes og hvilke relasjoner er det mellom disse
 * hvilke målsetninger er viktig for de ulike intresentene
 * er det spesielle krav og regler som må ivaretas
-* hvilke bruksmønster og arbeidsprosesser finnes (og som kanskje må bør endres?) 
+* hvilke bruksmønster og arbeidsprosesser finnes (og som kanskje må endres?) 
 * funksjonalitetsønsker (dette er egengtlig det som er minst viktig - mer om det i ett annet innlegg) 
 
 === Intresenter: 
@@ -108,7 +108,7 @@ image::10d_filter.png[]
 
 === Bruksmønster
 Jeg benyttet Google Analytics for å fange opp bruksmønster på løpsdagen. I løpet av 22/8 ble det registrert 1303 unike brukere. 
-Maks antall samtidige brukere var ca 435. 
+Maks antall samtidige brukere var 435. 
 
 image::10d_analyse_tid.png[]
 
@@ -132,10 +132,12 @@ Mellomtider og sluttider lastes ned i fra Emits onlineservere. Det er bare diskk
 
 image::10d_admin.png[width="40%"]
 
-=== Vurdering
+== Vurdering
 Dette var ekstremt gøy og jeg er veldig fornøyd med resultatet.
 Løsningen opplevdes oppdatert og rask under hele løpet. 
-Det er helt klart elementer som kan forbedres.
+
+Noen elementer som kan forbedres, men det meste fungerte i forhold til målsetningene. 
+
 Jeg fikk en dårlig tilbakemelding og mange gode.
 
 image::10d_face.png[]
