@@ -6,9 +6,306 @@
     <atom:link href="http://stigmelling.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 16 Dec 2015 16:56:51 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2015 16:56:51 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Dec 2015 21:31:02 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 21:31:02 +0100</lastBuildDate>
 
+    <item>
+      <title>Liveresultater på NM Ultralang i orientering 2015</title>
+      <link>http://stigmelling.github.io/blog//blog/2015/nmultra.html</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2015/nmultra.html</guid>
+      	<description>
+	&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_orientering_er_det_spennende_da&quot;&gt;Orientering - er det spennende da?&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Orientering er fasinerende. Det å løpe fort i skogen, samtidig som du må ha med deg hodet – gir et eget kick når du lykkes. Det er en egen mestringsfølelse å finne frem i ukjent terreng med kart og kompass.
+Når det er mesterskap blir det ekstra spennende, men det har ikke alltid vært like lett for publikum å ta del i denne spenningen.
+Mange husker kanskje Bård Tufte Johannesens orienterings sketsj i fra &lt;a href=&quot;https://www.youtube.com/watch?v=cyGr8QhZA30&quot;&gt;&lt;em&gt;Tre brødre som ikke er brødre&lt;/em&gt;&lt;/a&gt; på NRK. Bård  var orienteringsentusiast og trofast publikum på o-løp. Det var flott å se løpere som løp ut i skogen &amp;#8230;&amp;#8203; og som kom tilbake en stund senere. Det var ikke fritt for at det ble en del venting.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Nå er det slutt på ventingen. Alle mesterskap og større løp har live mellomtider i fra skogen. De beste løperene følges også med GPS.
+Hva er så nytt med NM Ultralang på Ringerike?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;http://nmultra2015.no&quot;&gt;&lt;img src=&quot;/blog/img/2015/LOGO-NM-ULTRA-2015.png&quot; alt=&quot;LOGO NM ULTRA 2015&quot; width=&quot;50%&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Ringerike o-lag med sine sammarbeidsparter arrangerete NM Ultralang i august 2015.
+Det var viktig for oss å bruke denne anledningen til å bygge egen arrangør-kompetanse ved å gjennomføre ett så viktig løp.
+Vi ønsket derfor selv å ta ansvar for tidtakertjenesten med tilhørende resultatservice.
+Det var OK for Norges orienteringsforbund - så lenge vi klarer å stable på beina en resultattjenste som er på høyde med det publikum forventer i denne type arrangement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Da blir det fort mer interessant. Utvikling av ny programvare som bare må virke ved første storskala forsøk kan jo ikke kategoriseres som noe annet enn spennende.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I de fleste systemutviklingsprosjekt, er det mulig med en myk &quot;igangkjøring&quot; der eventuelle problemstillinger kan håndteres og rettes &quot;i fart&quot;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;En resultattjeneste for ett løp som bare gjennomføres den 22/8-2015 - har ikke rom til å feile. Enten så fungerer det som det skal - eller så blir det fiasko.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Når hodet legges på hoggestabben i forkant av mesterskapet - gir det jo litt ekstra krydder til hverdagen (&lt;a href=&quot;http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553&quot;&gt;&lt;em&gt;Tidtakersjef, Stig Melling, sørger for online meldeposter, der en løpende kan se passeringer.&lt;/em&gt;&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Her var det flere nye og spennende utfordringer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;http://www.ringblad.no/orientering/sport/norgeseliten-kommer-til-ringerike/s/5-45-82553&quot;&gt;&lt;img src=&quot;/blog/img/2015/rb_eliten_kommer.png&quot; alt=&quot;rb eliten kommer&quot; width=&quot;70%&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_løsningen_som_ble_utviklet&quot;&gt;Løsningen som ble utviklet&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;For å forstå behov som skal dekkes - uansett løsning, liker jeg å dvele litt ved følgende elementer:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;hvilke ulike aktører har interesser i forhold til løsningen som skal utvikles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;hvilke begrep benyttes og hvilke relasjoner er det mellom disse&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;hvilke målsetninger er viktig for de ulike intresentene&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;er det spesielle krav og regler som må ivaretas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;hvilke bruksmønster og arbeidsprosesser finnes (og som kanskje må bør endres?)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;funksjonalitetsønsker (dette er egengtlig det som er minst viktig - mer om det i ett annet innlegg)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_intresenter&quot;&gt;Intresenter:&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I forhold til liveoppdateringer av mellomtider og resultater ble følgende intresenter identifisert:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;publikum med egen mobiltelefon/nettbrett&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;publikum som ser på &quot;storskjerm&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;speaker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;presse&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;arrangør - sekreteriat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;arrangør - startere&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;arrangør - drikkestasjoner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;arrangør - premieutdeling&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_målsetninger&quot;&gt;Målsetninger:&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Dette er de viktig behovene som skal dekkes:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Brukergrensesnittet skal være lett å forstå - selv uten opplæring&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Designet skal være responsivt - slik at det fungerer på mobiltelefon, nettbrett eller pc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Starttider skal vises&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mellomtider skal være tilgjengelig maks 10 sekunder etter at en løper har passert en meldepost&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resultatlister skal oppdateres maks 10 sekunders etter en løpers målgang&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En bruker skal ikke gjøre noe for å få oppdatert mellomtider/sluttider på sin enhet&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De siste oppdateringene i aktuelle lister skal fremheves&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løpere som har endrer plassering i fra en mellomtid til den neste skal synliggjøres&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det skal ikke være nødvendig å navigering i sidene for å se hvilke løpere som kommer til å passere (løpere vi venter ny passering/målgang)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lister som vises på storskjerm/infokiosk - skal vise alle løpere, men fremheve de som leder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det skal være lett å følge utvalgte klasser&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det skal være lett å følge utvalgte klubber&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen skal fungere med opptil 15 mellomtidsstasjoner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningens skal sørge for at mannskap på væskeposter kan informeres om når siste løper har passert deres post&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen skal sørge for at premieutdeling kan foretas så raskt som mulig etter at det er avklart hvem som skal ha premie&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen skal ikke &quot;spise&quot; nettverkskapasitet på samlingsplass/sekreteriat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen skal ikke medføre mer behov for infrastruktur på samlingsplass/sekreteriat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen må være skalerbar i forhold til antall brukere og ikke minst kostnader&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Løsningen skal kunne administreres i fra en mobiltelefonen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_brukergrensesnittet&quot;&gt;Brukergrensesnittet&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Jeg grublet veldig på hvilket navn løsningen skulle få. Det må jo være kort og litt utenfor normalen for å bli husket.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Valget falt til slutt på 10d.no som i TID. Akurat passe kort og &quot;To-the-point&quot;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Når du åpner nettsiden - blir du automatisk sendt til dagens arrangement.
+Det er 3 sentrale “velgere” i nettsiden. Med den gule velger du hvilket løp du ønsker å følge, med den blå velger du klasse – mens den røde velger ulike steder knyttet til valgt klasse ( start, mellomtider eller mål).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_liste.png&quot; alt=&quot;10d liste&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Pilene til høyre og venstre for klassevelger/stedsvelger er “karusellknapper” som gjør det enkelt å navigere til neste klasse/sted. Karusellknappene for klassevelger – navigerer til neste/forrige favorittklasse.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_klasse.png&quot; alt=&quot;10d klasse&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Det er også en blå “favoritt-stjerne” som markerer om en klasse er med i  din favorittliste eller ikke. De blå karusellknappene skifter mellom klassene i favorittlisten. Alle klasser er med i favorittlisten når du starter nettsiden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_sted.png&quot; alt=&quot;10d sted&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Mellomtider/sluttider oppdaterers automatisk. Tider som er nye markeres med rødt.
+Listene viser registrerte passeringer og “virituelle” plasseringer for løpere som vi venter på. “Virituelle” plasseringer hentes i fra forrige mellomtidsstasjon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_endret.png&quot; alt=&quot;10d endret&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Du kan filtrere alle lister ved å skrive inn hele eller deler av ett klubbnavn. Dette filteret kan du ta bort ved å krysse på x-knappen ved siden av filteret.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_filter.png&quot; alt=&quot;10d filter&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_bruksmønster&quot;&gt;Bruksmønster&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Jeg benyttet Google Analytics for å fange opp bruksmønster på løpsdagen. I løpet av 22/8 ble det registrert 1303 unike brukere.
+Maks antall samtidige brukere var ca 435.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_analyse_tid.png&quot; alt=&quot;10d analyse tid&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Hvis vi ser på hvordan dette fordeler seg på brukerens opprinnelsessted - ser det jo ut som vi traff litt av o-norge i løpet av dagen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_analyse_sted.png&quot; alt=&quot;10d analyse sted&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_oppsett_og_administrasjon&quot;&gt;Oppsett og administrasjon&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Tjenesten er utviklet som en webapplikasjon som kjører i ett java-miljø.
+Jeg benyttet servere hos Amazon Web services. Her er det veldig enkelt å velge den serverkraften som er nødvenidg for å ha kraft nok til å håndtere forventet antall brukere. På løpsdagen ble det benyttet en server at typen 2xlarge. Priser for dette var da &lt;em&gt;$0.585 per On Demand Linux m3.2xlarge Instance Hour&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Serveren kan startes i fra AWS sin egen mobil-applikasjon i på telefonen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_aws_start.png&quot; alt=&quot;10d aws start&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Det kan være hendig. Jeg har selv startet opp &quot;tidtakertjenesten&quot; på vei til løp jeg selv skulle delta i &lt;em&gt;Kneskjeælven 2015&lt;/em&gt; kommer også som eget innlegg.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Tjenesten kan operere det meste i fra &quot;skyen&quot;.
+Løpet opprettes ved å hente ned påmeldinger/startlister i fra Eventor ( Norges Orienteringsforbunds påmeldingssystem) via REST-tjenester.
+Mellomtider og sluttider lastes ned i fra Emits onlineservere. Det er bare diskkontroll som gjøres i målsonens. Alle &quot;avvik&quot; ble overført til skyen - slik at diskstatus, brikkenummer og evnt. andre endringer til enhver tid var oppdatert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_admin.png&quot; alt=&quot;10d admin&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_vurdering&quot;&gt;Vurdering&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Dette var ekstremt gøy og jeg er veldig fornøyd med resultatet.
+Løsningen opplevdes oppdatert og rask under hele løpet.
+Det er helt klart elementer som kan forbedres.
+Jeg fikk en dårlig tilbakemelding og mange gode.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;/blog/img/2015/10d_face.png&quot; alt=&quot;10d face&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	</description>
+    </item>
     <item>
       <title>Min blog</title>
       <link>http://stigmelling.github.io/blog//blog/2015/min-blog.html</link>
